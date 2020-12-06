@@ -1,4 +1,4 @@
 # quantum_blog
 an intro to quantum mechanics
 
-I made this project to get used to Mathjax. The commands are very similar to Latex.
+I made this project to get used to Mathjax. The commands are very similar to Latex. The text covers some topics from quantum mechanics.
